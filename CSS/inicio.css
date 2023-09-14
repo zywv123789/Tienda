@@ -1,0 +1,7 @@
+.inicio{
+  --opacidad-negro: 0.5;
+  background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro))), url("../IMG/DreamShaper_v7_dragon_oscuro_con_el_piel_negroque_se_vea_espan_0-_1_.webp");
+  background-position: center;
+  background-size: cover
+  height 30rem;
+}
