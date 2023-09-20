@@ -1,7 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/*  */
+
+
 .inicio{
-  --opacidad-negro: 0.5;
-  background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro))), url("../IMG/DreamShaper_v7_dragon_oscuro_con_el_piel_negroque_se_vea_espan_0-_1_.webp");
-  background-position: center;
-  background-size: cover
-  height 30rem;
+    background-image: url("../IMG/DreamShaper_v7_shiba_inu_con_sombrero_mexicano_color_cafe_hemb_0-_1_.webp");
+    background-position: center;
+    background-size: cover;
+    height:41rem;  
+}
+
+.pacman-logo {
+    width: 50px;
+}
+
+.nav-link {
+    margin-right: 10px;
+    margin-left: 10px;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+}
+
+.card-title {
+    font-family: 'Oswald', sans-serif;
+}
+
+.card-text {
+    font-family: 'Raleway', sans-serif;
 }
